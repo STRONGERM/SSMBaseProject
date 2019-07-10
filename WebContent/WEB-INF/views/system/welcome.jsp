@@ -19,7 +19,7 @@
 	<p>Java版本：JDK 1.8</p>
 	<p>服务器：tomcat 8.5</p>
 	<p>数据库：MySQL 8.0</p>
-	<p>系统采用技术： spring+springMVC+mybaits+EasyUI+jQuery+Ajax+面向接口编程</p>
+	<p>系统采用技术： spring+springMVC+mybaits+EasyUI+jQuery+Ajax+面向接口编程  </p>
 </div>
 </body>
 
