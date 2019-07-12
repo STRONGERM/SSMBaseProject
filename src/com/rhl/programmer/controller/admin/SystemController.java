@@ -22,12 +22,11 @@ import com.rhl.programmer.entity.admin.User;
 import com.rhl.programmer.service.admin.UserService;
 import com.rhl.programmer.util.CpachaUtil;
 
-/*
- * 
+/**
  * 系统操作类控制器
- * @auther rhl
- * 
- * */
+ * @author rhl
+ *
+ */
 
 @Controller
 @RequestMapping("/system")
@@ -140,8 +139,6 @@ public class SystemController {
 		return ret;
 	}
 	
-	
-	
 	/**
 	 * 
 	 *  系统验证码模块
@@ -172,8 +169,6 @@ public class SystemController {
 			e.printStackTrace();
 		}
 			
-	}
-	
-	
+	}	
 	
 }
